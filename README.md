@@ -1,2 +1,2 @@
 # Air pollution study repository
-hello world
+Hello world! This is the repository for Xinpeng's Air pollution study.
