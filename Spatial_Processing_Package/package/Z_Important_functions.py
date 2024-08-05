@@ -880,3 +880,6 @@ def check_balance_ras(Balaarray,Qua_upbound,Qua_lowbound):
     print('Max:', np.max(Balaarray))
     print('Min:', np.min(Balaarray))
     print(np.sum(Balaarray) )
+
+def hello():
+    return "Hello from Imp_func!"
